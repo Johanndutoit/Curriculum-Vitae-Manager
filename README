@@ -1,5 +1,11 @@
 Wanted to be able to generate a good looking CV dynamic from a XML file. So I can just update the XML file and the script would output the CV in a PDF format. 
 
+What I still want to do:
+-> Generate a .doc word file from the xml file
+-> Fix the Pages on PDF as some of them break the layout (Go over to the next page)
+-> Accounts Sections (Where you point to all your accounts like github/stackoverflow/facebook/google plus etc.)
+-> Add more details
+
 Requirements:
 -> PySide (http://www.pyside.org/)
 
